@@ -1,0 +1,17 @@
+div.boxy {
+    border: 1px solid black;
+}
+div.name {
+    background: rgb(185, 185, 185);
+}
+div.email {
+    background: rgb(185, 185, 185);
+}
+div.dob {
+    background: rgb(185, 185, 185);
+}
+div.pic {
+    background: rgb(121, 121, 121);
+    border: 1px solid black;
+}
+
